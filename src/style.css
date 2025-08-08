@@ -43,7 +43,7 @@
         background-image: linear-gradient(135deg,
             rgb(78, 66, 243),
             rgb(28, 27, 117)),
-          url("/public/hero_mobile.jpg");
+          url("./public/hero_mobile.jpg");
         background-size: cover;
         background-position: center;
         background-blend-mode: multiply;
@@ -58,7 +58,7 @@
           background-image: linear-gradient(135deg,
               rgb(78, 66, 243),
               rgb(28, 27, 117)),
-            url("/public/hero_tablet.jpg");
+            url("./public/hero_tablet.jpg");
         }
       }
 
@@ -67,7 +67,7 @@
           background-image: linear-gradient(135deg,
               rgb(78, 66, 243),
               rgb(28, 27, 117)),
-            url("/public/herp_desktop.jpg");
+            url("./public/herp_desktop.jpg");
         }
       }
 
