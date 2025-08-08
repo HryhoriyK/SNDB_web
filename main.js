@@ -1,4 +1,4 @@
-import './style.css'
+import './src/css/style.css'
 
 document.addEventListener("DOMContentLoaded",() => {
   const typSelect = document.getElementById("typ");
